@@ -1,7 +1,6 @@
 var myApp=angular.module("listApp",["ngRoute"]);
 
 
-
 myApp.config(function($routeProvider){
     $routeProvider
         .when("/",{
