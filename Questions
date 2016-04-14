@@ -1,8 +1,0 @@
-How would you modify the UI to be responsive?
-
-By using Bootstrap.
-And also applying specific styles through media queries.
-
-Will this implementation work with touch-based devices and mobile device? Why or why not?
-
-We can incorporate this app for touch enabled devices using ngTouch dependency.
